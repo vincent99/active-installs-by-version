@@ -1,0 +1,10 @@
+{
+  "name": "active-installs-by-versions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vincent Fiduccia <vincent@rancher.com>",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "request": "^2.81.0"
+  }
+}
